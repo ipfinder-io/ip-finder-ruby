@@ -194,4 +194,4 @@ Contact Us With Additional Questions About Our API, if you would like more infor
 ## License
 ----
 
-[![GitHub license](https://img.shields.io/github/license/ipfinder-io/ip-finder-node.svg)](https://github.com/ipfinder-io/ip-finder-node)
+[![GitHub license](https://img.shields.io/github/license/ipfinder-io/ip-finder-ruby.svg)](https://github.com/ipfinder-io/ip-finder-ruby)
